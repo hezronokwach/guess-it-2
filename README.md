@@ -21,7 +21,7 @@ This project implements a simple linear regression model to predict the next val
 ### How to run 
 ```bash
 git clone https://learn.zone01kisumu.ke/git/hokwach/guess-it-2.git
-cd guess--it-2
+cd guess-it-2
 python3 guess2.py
 ```
 ```bash
@@ -47,7 +47,6 @@ Implement a graphical user interface (GUI) for easier data input and visualizati
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details. 
-Feel free to contribute.
 
 ## Acknowledgments
 
