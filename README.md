@@ -22,6 +22,7 @@ This project implements a simple linear regression model to predict the next val
 ```bash
 git clone https://learn.zone01kisumu.ke/git/hokwach/guess-it-2.git
 cd guess-it-2
+cd student
 python3 guess2.py
 ```
 ```bash
