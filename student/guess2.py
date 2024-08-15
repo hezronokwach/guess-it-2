@@ -24,7 +24,7 @@ def predict_range(values):
     next_index = len(values)
     predicted_value = gradient * next_index + c
 
-    # Calculate the predicted range based on the standard deviation of the residuals
+    # Calculate the predicted range 
     lower_bound = predicted_value - 60
     upper_bound = predicted_value + 60
 
